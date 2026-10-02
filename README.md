@@ -1,4 +1,4 @@
-# Project 14 - Restaurant Sales Analysis
+# Restaurant Sales Analysis
 
 This project analyzes the provided sales dataset to deliver an interactive Streamlit dashboard for:
 - revenue and order exploration
